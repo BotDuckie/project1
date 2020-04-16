@@ -25,5 +25,6 @@ output = translate(word)
 if type(output) == list:
     for item in output:
         print(item)
+        print('Gery is great!Horray')
 else:
     print(output)
